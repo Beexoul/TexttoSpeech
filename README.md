@@ -12,7 +12,7 @@ A simple Python script to convert text into audio using Google Text-to-Speech AP
 ## Usage
 Run the script `text_to_audio.py` using Python:
 
-    ```bash 
+ ```bash 
     python text_to_audio.py
     
 Enter the text you want to convert to audio when prompted.
